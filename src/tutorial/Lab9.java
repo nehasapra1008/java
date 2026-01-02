@@ -13,3 +13,13 @@ public class Lab9 {
 	}
 
 }
+
+/*
+// output 
+
+99
+true
+999.99
+srinivas
+
+*/
